@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: Dimond-price-prediction
+Version: 0.1.0
+Author: Harsh Raj Singh
+Author-email: harshrajsingh2424@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flash
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: sklearn

@@ -1,0 +1,8 @@
+pandas
+numpy
+flash
+seaborn
+matplotlib
+sklearn
+
+-e .
